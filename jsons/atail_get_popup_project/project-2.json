@@ -1,11 +1,48 @@
 {
 	"status": "success",
-	"title": "Bard bags collection",
-	"link": "http://template.atail.itembridge.com/projects/Bard-bags-collection.html",
-	"content": "Here is where I really need “fast” lenses, good zoom lenses, patience and luck. Feel the magic of the moment. A photographer portfolio fully displays his way to see the world and feel its beauty. Photography opens my eyes and my soul to exclusively fantastic things. Open your eyes and don't miss any beautiful detail!\r\n",
+	"title": "H포인트 런칭 광고",
+	"link": "http://template.atail.itembridge.com/projects/Chinese-girl-posing.html",
+	"content": "현대백화점그룹 통합 멤버십 H.Point를 런칭함에 있어, 기존 현대백화점 무드 뿐 아니라 전체 참여사를 통합할 수 있는 이미지 구축",
 	"date": "<span class=\"atail-project-date\"><span class=\"atail-proj-date-text\">Finished </span><span class=\"atail-proj-date-value\">- 22 Jun 2016</span></span>",
-	"slides": null,
+	"thumbnail": "<img width=\"1200\" height=\"911\" src=\"img/1_pr_ad_grandeur_thum.jpg\" alt=\"pexels-photo-69494\" />",
+	"thumbnail_url": "img/1_pr_ad_grandeur_thum.jpg",
 	"positions": null,
 	"token": "865fc8f5ec",
-	"participants": "<span class=\"post-content-footer-title\">Participants</span>"
+	"participants": "<span class=\"post-content-footer-title\">information</span>",
+	"slides": [
+    {
+      "src": "https://www.youtube.com/embed/A0W77HIMr4I",
+      "type": "video"
+    },
+        {
+			"src": {
+				"img": "img/project-preview/2_ad_hpoint_1.jpg",
+				"title": "",
+				"text": "",
+				"fit": "cover"
+			},
+			"fit": "cover",
+			"type": "image"
+		},
+        {
+			"src": {
+				"img": "img/project-preview/2_ad_hpoint_2.jpg",
+				"title": "",
+				"text": "",
+				"fit": "cover"
+			},
+			"fit": "cover",
+			"type": "image"
+		}
+	],
+    "positions": [
+    {
+      "title": "Business",
+      "url": "Advertising & Marketing"
+    },
+    {
+      "title": "Project",
+      "url": "Viral Film"
+    }
+  ]
 }
