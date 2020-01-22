@@ -8,7 +8,7 @@
 	"thumbnail_url": "img/1_pr_ad_grandeur_thum.jpg",
 	"positions": null,
 	"token": "865fc8f5ec",
-	"participants": "<span class=\"post-content-footer-title\">Participants</span>",
+	"participants": "<span class=\"post-content-footer-title\">information</span>",
 	"slides": [
     {
       "src": "https://www.youtube.com/embed/p46J1cUhLGk",
@@ -47,16 +47,12 @@
 	],
     "positions": [
     {
-      "title": "Name",
-      "url": "Developer"
+      "title": "Business",
+      "url": "Advertising & Marketing"
     },
     {
-      "title": "Name",
-      "url": "Developer"
-    },
-    {
-      "title": "Name",
-      "url": "QA"
+      "title": "Project",
+      "url": "Viral Film"
     }
   ]
 }
