@@ -8369,7 +8369,7 @@ p > img {
   height: 100%;
   -webkit-transition: width .6s ease;
   transition: width .6s ease;
-  background-color: blue;
+  background-color: #00b5c9;
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
 }
@@ -8436,7 +8436,7 @@ p > img {
   margin: 0 2px;
   border: 1px solid transparent;
   border-radius: 50%;
-  background-color: blue;
+  background-color: #00b5c9;
 }
 
 .atail-dot.start-animation {
