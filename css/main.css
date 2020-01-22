@@ -11575,47 +11575,6 @@ div.wpcf7-response-output {
   border-left: 0;
 }
 
-.jssocials-share-count-box .jssocials-share-count:empty {
-  padding: 0;
-  border-left: 0;
-}
-
-.jssocials-share {
-  display: inline-block;
-  margin: 0 11px;
-}
-
-.single-project .jssocials-share {
-  display: inline-block;
-  margin: 0 15px 9px 0;
-  min-width: 20px;
-  border: 1px solid;
-  overflow: hidden;
-  border-radius: 50%;
-}
-
-.post-content-header .jssocials-share {
-  display: inline-block;
-  margin: 0 15px 9px 0;
-  min-width: 20px;
-  border: 1px solid;
-  overflow: hidden;
-  border-radius: 50%;
-}
-
-.post-content-header .jssocials-share a {
-  display: block;
-  float: left;
-  width: 30px;
-  height: 30px;
-  text-align: center;
-  line-height: 1;
-  text-align: center;
-}
-
-.post-content-header .jssocials-share a .fa {
-  line-height: 30px;
-}
 
 .atail-small-line {
   position: relative;
