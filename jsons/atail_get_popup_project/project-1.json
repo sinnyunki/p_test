@@ -44,5 +44,19 @@
 			"fit": "cover",
 			"type": "image"
 		}
-	]
+	],
+    "positions": [
+    {
+      "title": "Name",
+      "url": "Developer"
+    },
+    {
+      "title": "Name",
+      "url": "Developer"
+    },
+    {
+      "title": "Name",
+      "url": "QA"
+    }
+  ]
 }
