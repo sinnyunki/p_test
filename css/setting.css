@@ -33,7 +33,7 @@ body {
     background-color: #FFF;
 }
 
-th, .tagcloud a, input, label, button, input, textarea, a.button, select, .project-count, .blog-date, .blog-category-link, .atail-proj-date-text, .atail-proj-date-value, .post-content-footer-title, .small-title, .widget_archive, .widget_categories, .atail-multitext, .atail-multitext-text, .blog-author, .page-numbers, figure .description-title, .project-preview-arrow span, ol li:before, nav:before, nav.row:before, ol ul li:before, .atail-widget-heading {
+a, th, .tagcloud a, input, label, button, input, textarea, a.button, select, .project-count, .blog-date, .blog-category-link, .atail-proj-date-text, .atail-proj-date-value, .post-content-footer-title, .small-title, .widget_archive, .widget_categories, .atail-multitext, .atail-multitext-text, .blog-author, .page-numbers, figure .description-title, .project-preview-arrow span, ol li:before, nav:before, nav.row:before, ol ul li:before, .atail-widget-heading {
     font-family: 'Montserrat', "sans-serif";
     font-style: normal;
     font-weight: 700;
