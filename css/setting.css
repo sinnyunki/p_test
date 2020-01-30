@@ -14,7 +14,7 @@
 }
 
 body, .blog-count-likes, .blog-count-comments, .comment-reply-link, .comment-edit-link {
-    font-family: 'Noto Sans KR', sans-serif;
+    font-family: 'Hind', "sans-serif";
     font-style: normal;
     font-weight: 300;
 }
@@ -33,14 +33,8 @@ body {
     background-color: #FFF;
 }
 
-a, th, .tagcloud a, input, label, button, input, textarea, a.button, select, .project-count, .blog-date, .blog-category-link, .atail-proj-date-text, .atail-proj-date-value, .post-content-footer-title, .small-title, .widget_archive, .widget_categories, .atail-multitext, .atail-multitext-text, .blog-author, .page-numbers, figure .description-title, .project-preview-arrow span, ol li:before, nav:before, nav.row:before, ol ul li:before, .atail-widget-heading {
+h1, h2, h3, h4, h5, h6, th, .tagcloud a, input, label, button, input, textarea, a.button, select, a, .project-count, .blog-date, .blog-category-link, .atail-post-comments-title, .atail-proj-date-text, .atail-proj-date-value, .post-content-footer-title, .small-title, .widget_archive, .widget_categories, .atail-multitext, .atail-multitext-text, .blog-author, .page-numbers, figure .description-title, .project-preview-arrow span, ol li:before, nav:before, nav.row:before, ol ul li:before, .atail-widget-heading {
     font-family: 'Montserrat', "sans-serif";
-    font-style: normal;
-    font-weight: 700;
-}
-
-h1, h2, h3, h4, h5, h6, .atail-post-comments-title {
-    font-family: 'Noto Sans KR', sans-serif;
     font-style: normal;
     font-weight: 700;
 }
@@ -62,7 +56,7 @@ h3 {
 }
 
 h4 {
-    letter-spacing: -3px;
+    letter-spacing: -0.85px;
 }
 
 h5 {
@@ -91,7 +85,7 @@ a, .post-content-info > a, .post-content-likes .blog-count-likes, .post-content-
 }
 
 .atail-slider h1 a:hover, .atail-slider-item .blog-author span:hover, .atail-slider-item .blog-date span:hover, a:hover, .side-content a:hover, .blog-category a:hover, a.blog-date:hover, .content-info-date a:hover, .post-content-info > a.blog-category-link:hover, .post-content-likes .blog-count-likes:hover, .post-content-tags a[rel="tag"]:hover, .post-sidebar .widget li a:hover {
-    color: #00b5c9;
+    color: #1957f3;
 }
 
 .comment-navigation > h2,
@@ -120,7 +114,7 @@ a.prev.page-numbers,
     }
 
     .nav-list > li > a:hover span:last-child, .nav-list > li.current-menu-item > a > span:last-child {
-        color: #00b5c9;
+        color: #1957f3;
     }
 
     .nav-list > li > a > .nav-list-counter {
@@ -194,7 +188,7 @@ a.prev.page-numbers,
 }
 
 .atail-team-follow a:hover {
-    color: #00b5c9;
+    color: #1957f3;
 }
 
 .atail-post-comments-wrapper:before {
@@ -270,7 +264,7 @@ ul ol li:before, ol ul li:before, ol li:before {
 }
 
 a.button:link, button, input[type^="submit"], input[type^="button"], button:not([data-action^="close-nav"]) {
-    background-color: #00b5c9;
+    background-color: #1957f3;
     color: #FFF;
 }
 
@@ -333,8 +327,8 @@ button.no-button:hover {
 }
 
 .tagcloud a {
-    border-color: #00b5c9;
-    color: #00b5c9;
+    border-color: #1957f3;
+    color: #1957f3;
 }
 
 .atail-dark-footer .tagcloud a {
@@ -343,17 +337,17 @@ button.no-button:hover {
 }
 
 .atail-dark-footer .tagcloud a:hover {
-    background-color: #00b5c9;
-    border-color: #00b5c9;
+    background-color: #1957f3;
+    border-color: #1957f3;
 }
 
 .tagcloud a:hover {
-    background-color: #00b5c9;
-    border-color: #00b5c9;
+    background-color: #1957f3;
+    border-color: #1957f3;
 }
 
 #today {
-    background-color: #00b5c9;
+    background-color: #1957f3;
     color: #FFF;
 }
 
@@ -527,7 +521,7 @@ div.cs-select .cs-options ul {
 }
 
 .preview-article-header > h2 > a:hover {
-    color: #00b5c9;
+    color: #1957f3;
 }
 .recentcomments a {
     display: inline !important;
